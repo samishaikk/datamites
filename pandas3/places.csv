@@ -1,0 +1,9 @@
+place_id,place_name,city_name,type,rating,entry_fees,visiting_per_year_million
+101,chairminar,hydrabad,historical,4.5,25,2.5
+102,golconda,hydrabad,historical,4.6,30,1.8
+103,india gate,delhi,monument,4.7,0,5.2
+104,red fort,delhi,monument,4.5,35,4.1
+105,hawa mahal,jaipur,palace,4.6,50,2.9
+106,amber fort,jaipur,fort,4.7,40,3.5
+107,foty kochi,kochi,beach,4.4,0,1.1
+108,baga beach,goa,beach,4.5,0,2.0
